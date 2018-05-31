@@ -3,11 +3,11 @@
   <title>Blog</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://dcheong.github.io/"/>
+  <link href="http://dcheong.github.io/blog/"/>
   <updated>2018-05-31T02:15:09.772Z</updated>
-  <id>http://dcheong.github.io/</id>
+  <id>http://dcheong.github.io/blog/</id>
   
   <author>
     <name>Douglas Cheong</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Dang, my site sucks.</title>
-    <link href="http://dcheong.github.io/2018/05/30/Starting-Anew/"/>
-    <id>http://dcheong.github.io/2018/05/30/Starting-Anew/</id>
+    <link href="http://dcheong.github.io/blog/2018/05/30/Starting-Anew/"/>
+    <id>http://dcheong.github.io/blog/2018/05/30/Starting-Anew/</id>
     <published>2018-05-31T02:00:33.000Z</published>
     <updated>2018-05-31T02:15:09.772Z</updated>
     
@@ -35,7 +35,7 @@
     </summary>
     
     
-      <category term="general" scheme="http://dcheong.github.io/tags/general/"/>
+      <category term="general" scheme="http://dcheong.github.io/blog/tags/general/"/>
     
   </entry>
   
